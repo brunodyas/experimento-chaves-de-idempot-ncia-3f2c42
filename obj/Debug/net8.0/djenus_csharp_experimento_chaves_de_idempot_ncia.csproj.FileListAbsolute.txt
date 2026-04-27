@@ -2,3 +2,13 @@ D:\Projetos\GitAuto\workspace\djenus-csharp-experimento-chaves-de-idempot-ncia-3
 D:\Projetos\GitAuto\workspace\djenus-csharp-experimento-chaves-de-idempot-ncia-3f2c42\obj\Debug\net8.0\djenus_csharp_experimento_chaves_de_idempot_ncia.AssemblyInfoInputs.cache
 D:\Projetos\GitAuto\workspace\djenus-csharp-experimento-chaves-de-idempot-ncia-3f2c42\obj\Debug\net8.0\djenus_csharp_experimento_chaves_de_idempot_ncia.AssemblyInfo.cs
 D:\Projetos\GitAuto\workspace\djenus-csharp-experimento-chaves-de-idempot-ncia-3f2c42\obj\Debug\net8.0\djenus_csharp_experimento_chaves_de_idempot_ncia.csproj.CoreCompileInputs.cache
+D:\Projetos\GitAuto\workspace\djenus-csharp-experimento-chaves-de-idempot-ncia-3f2c42\bin\Debug\net8.0\djenus_csharp_experimento_chaves_de_idempot_ncia.exe
+D:\Projetos\GitAuto\workspace\djenus-csharp-experimento-chaves-de-idempot-ncia-3f2c42\bin\Debug\net8.0\djenus_csharp_experimento_chaves_de_idempot_ncia.deps.json
+D:\Projetos\GitAuto\workspace\djenus-csharp-experimento-chaves-de-idempot-ncia-3f2c42\bin\Debug\net8.0\djenus_csharp_experimento_chaves_de_idempot_ncia.runtimeconfig.json
+D:\Projetos\GitAuto\workspace\djenus-csharp-experimento-chaves-de-idempot-ncia-3f2c42\bin\Debug\net8.0\djenus_csharp_experimento_chaves_de_idempot_ncia.dll
+D:\Projetos\GitAuto\workspace\djenus-csharp-experimento-chaves-de-idempot-ncia-3f2c42\bin\Debug\net8.0\djenus_csharp_experimento_chaves_de_idempot_ncia.pdb
+D:\Projetos\GitAuto\workspace\djenus-csharp-experimento-chaves-de-idempot-ncia-3f2c42\obj\Debug\net8.0\djenus_csharp_experimento_chaves_de_idempot_ncia.dll
+D:\Projetos\GitAuto\workspace\djenus-csharp-experimento-chaves-de-idempot-ncia-3f2c42\obj\Debug\net8.0\refint\djenus_csharp_experimento_chaves_de_idempot_ncia.dll
+D:\Projetos\GitAuto\workspace\djenus-csharp-experimento-chaves-de-idempot-ncia-3f2c42\obj\Debug\net8.0\djenus_csharp_experimento_chaves_de_idempot_ncia.pdb
+D:\Projetos\GitAuto\workspace\djenus-csharp-experimento-chaves-de-idempot-ncia-3f2c42\obj\Debug\net8.0\djenus_csharp_experimento_chaves_de_idempot_ncia.genruntimeconfig.cache
+D:\Projetos\GitAuto\workspace\djenus-csharp-experimento-chaves-de-idempot-ncia-3f2c42\obj\Debug\net8.0\ref\djenus_csharp_experimento_chaves_de_idempot_ncia.dll
