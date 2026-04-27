@@ -1,0 +1,14 @@
+D:\Projetos\GitAuto\workspace\experimento-chaves-de-idempot-ncia-3f2c42\bin\Debug\net8.0\experimento_chaves_de_idempot_ncia_3f2c42.exe
+D:\Projetos\GitAuto\workspace\experimento-chaves-de-idempot-ncia-3f2c42\bin\Debug\net8.0\experimento_chaves_de_idempot_ncia_3f2c42.deps.json
+D:\Projetos\GitAuto\workspace\experimento-chaves-de-idempot-ncia-3f2c42\bin\Debug\net8.0\experimento_chaves_de_idempot_ncia_3f2c42.runtimeconfig.json
+D:\Projetos\GitAuto\workspace\experimento-chaves-de-idempot-ncia-3f2c42\bin\Debug\net8.0\experimento_chaves_de_idempot_ncia_3f2c42.dll
+D:\Projetos\GitAuto\workspace\experimento-chaves-de-idempot-ncia-3f2c42\bin\Debug\net8.0\experimento_chaves_de_idempot_ncia_3f2c42.pdb
+D:\Projetos\GitAuto\workspace\experimento-chaves-de-idempot-ncia-3f2c42\obj\Debug\net8.0\experimento_chaves_de_idempot_ncia_3f2c42.GeneratedMSBuildEditorConfig.editorconfig
+D:\Projetos\GitAuto\workspace\experimento-chaves-de-idempot-ncia-3f2c42\obj\Debug\net8.0\experimento_chaves_de_idempot_ncia_3f2c42.AssemblyInfoInputs.cache
+D:\Projetos\GitAuto\workspace\experimento-chaves-de-idempot-ncia-3f2c42\obj\Debug\net8.0\experimento_chaves_de_idempot_ncia_3f2c42.AssemblyInfo.cs
+D:\Projetos\GitAuto\workspace\experimento-chaves-de-idempot-ncia-3f2c42\obj\Debug\net8.0\experimento_chaves_de_idempot_ncia_3f2c42.csproj.CoreCompileInputs.cache
+D:\Projetos\GitAuto\workspace\experimento-chaves-de-idempot-ncia-3f2c42\obj\Debug\net8.0\experimento_chaves_de_idempot_ncia_3f2c42.dll
+D:\Projetos\GitAuto\workspace\experimento-chaves-de-idempot-ncia-3f2c42\obj\Debug\net8.0\refint\experimento_chaves_de_idempot_ncia_3f2c42.dll
+D:\Projetos\GitAuto\workspace\experimento-chaves-de-idempot-ncia-3f2c42\obj\Debug\net8.0\experimento_chaves_de_idempot_ncia_3f2c42.pdb
+D:\Projetos\GitAuto\workspace\experimento-chaves-de-idempot-ncia-3f2c42\obj\Debug\net8.0\experimento_chaves_de_idempot_ncia_3f2c42.genruntimeconfig.cache
+D:\Projetos\GitAuto\workspace\experimento-chaves-de-idempot-ncia-3f2c42\obj\Debug\net8.0\ref\experimento_chaves_de_idempot_ncia_3f2c42.dll

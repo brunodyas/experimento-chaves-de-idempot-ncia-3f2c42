@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\Projetos\\GitAuto\\workspace\\djenus-csharp-experimento-chaves-de-idempot-ncia-3f2c42\\djenus_csharp_experimento_chaves_de_idempot_ncia.csproj",
-      "projectName": "djenus_csharp_experimento_chaves_de_idempot_ncia",
-      "projectPath": "D:\\Projetos\\GitAuto\\workspace\\djenus-csharp-experimento-chaves-de-idempot-ncia-3f2c42\\djenus_csharp_experimento_chaves_de_idempot_ncia.csproj",
+      "projectUniqueName": "D:\\Projetos\\GitAuto\\workspace\\experimento-chaves-de-idempot-ncia-3f2c42\\experimento_chaves_de_idempot_ncia_3f2c42.csproj",
+      "projectName": "experimento_chaves_de_idempot_ncia_3f2c42",
+      "projectPath": "D:\\Projetos\\GitAuto\\workspace\\experimento-chaves-de-idempot-ncia-3f2c42\\experimento_chaves_de_idempot_ncia_3f2c42.csproj",
       "packagesPath": "C:\\Users\\bruno\\.nuget\\packages\\",
-      "outputPath": "D:\\Projetos\\GitAuto\\workspace\\djenus-csharp-experimento-chaves-de-idempot-ncia-3f2c42\\obj\\",
+      "outputPath": "D:\\Projetos\\GitAuto\\workspace\\experimento-chaves-de-idempot-ncia-3f2c42\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\bruno\\AppData\\Roaming\\NuGet\\NuGet.Config",

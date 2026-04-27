@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "experimento_chaves_de_idempot_ncia_3f2c42/1.0.0": {
+        "runtime": {
+          "experimento_chaves_de_idempot_ncia_3f2c42.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "experimento_chaves_de_idempot_ncia_3f2c42/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
