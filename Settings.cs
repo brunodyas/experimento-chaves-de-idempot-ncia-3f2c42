@@ -1,5 +1,5 @@
 namespace AppConfig;
 
 public static class Settings {
-    public const string AppName = "API com cache, fila assíncrona e limitação";
+    public const string AppName = "Outbox pattern e publicação de eventos";
 }
