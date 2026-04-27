@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("experimento_chaves_de_idempot_ncia_3f2c42")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+9fd0e4ec70bdbd39f47210f446bc5b53b5cc766f")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+51e4af329126ec16a35417c2568de8163fee0a63")]
 [assembly: System.Reflection.AssemblyProductAttribute("experimento_chaves_de_idempot_ncia_3f2c42")]
 [assembly: System.Reflection.AssemblyTitleAttribute("experimento_chaves_de_idempot_ncia_3f2c42")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
