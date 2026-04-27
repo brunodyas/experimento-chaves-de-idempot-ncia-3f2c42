@@ -12,3 +12,4 @@ D:\Projetos\GitAuto\workspace\experimento-chaves-de-idempot-ncia-3f2c42\obj\Debu
 D:\Projetos\GitAuto\workspace\experimento-chaves-de-idempot-ncia-3f2c42\obj\Debug\net8.0\experimento_chaves_de_idempot_ncia_3f2c42.pdb
 D:\Projetos\GitAuto\workspace\experimento-chaves-de-idempot-ncia-3f2c42\obj\Debug\net8.0\experimento_chaves_de_idempot_ncia_3f2c42.genruntimeconfig.cache
 D:\Projetos\GitAuto\workspace\experimento-chaves-de-idempot-ncia-3f2c42\obj\Debug\net8.0\ref\experimento_chaves_de_idempot_ncia_3f2c42.dll
+D:\Projetos\GitAuto\workspace\experimento-chaves-de-idempot-ncia-3f2c42\obj\Debug\net8.0\experimento_chaves_de_idempot_ncia_3f2c42.sourcelink.json
