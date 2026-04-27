@@ -1,5 +1,5 @@
 namespace AppConfig;
 
 public static class Settings {
-    public const string AppName = "Ledger de idempotência distribuído";
+    public const string AppName = "Observabilidade: métricas, health agregado";
 }
